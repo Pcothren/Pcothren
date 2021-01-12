@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! My name is Preston Cothren 👋
 
-<!--
-**Pcothren/Pcothren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Preston's Github Stats](https://github-readme-stats.vercel.app/api?username=Pcothren&show_icons=true&count_private=true&show_icons=true&theme=dracula)
+![Preston's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoffstadt&layout=compact&card_width=250&hide_border=true&langs_count=6&theme=dracula)
 
-Here are some ideas to get you started:
+<a href="https://github.com/hoffstadt/DearPyGui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoffstadt&repo=DearPyGui&theme=dracula">
+</a>
+<a href="https://github.com/Pcothren/DearPyGui-Examples">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pcothren&repo=DearPyGui-Examples&theme=dracula">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Where to find me
+- [Facebook](https://www.facebook.com/preston.cothren.9)
+- [Twitter](https://twitter.com/toulaboy3)
+- [LinkedIn](https://www.linkedin.com/in/preston-cothren-00824190/)
