@@ -1,7 +1,7 @@
 ### Hi! My name is Preston Cothren 👋
 
 ![Preston's Github Stats](https://github-readme-stats.vercel.app/api?username=Pcothren&show_icons=true&count_private=true&show_icons=true&theme=dracula)
-![Preston's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoffstadt&layout=compact&card_width=250&hide_border=true&langs_count=6&theme=dracula)
+![Preston's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoffstadt&layout=compact&card_width=250&langs_count=6&theme=dracula)
 
 <a href="https://github.com/hoffstadt/DearPyGui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoffstadt&repo=DearPyGui&theme=dracula">
