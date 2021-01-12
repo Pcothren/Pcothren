@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pcothren&repo=DearPyGui-Examples&theme=dracula">
 </a>
 
-#### Where to find me
+### Where to find me
 - [Facebook](https://www.facebook.com/preston.cothren.9)
 - [Twitter](https://twitter.com/toulaboy3)
 - [LinkedIn](https://www.linkedin.com/in/preston-cothren-00824190/)
