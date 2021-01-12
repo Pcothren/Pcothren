@@ -1,4 +1,4 @@
-### Hi! My name is Preston Cothren 👋
+<h3 align="center" > Hi! My name is Preston Cothren 👋 </h3>
 
 ![Preston's Github Stats](https://github-readme-stats.vercel.app/api?username=Pcothren&show_icons=true&count_private=true&show_icons=true&theme=dracula)
 ![Preston's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoffstadt&layout=compact&card_width=250&langs_count=6&theme=dracula)
@@ -10,7 +10,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pcothren&repo=DearPyGui-Examples&theme=dracula">
 </a>
 
-### Where to find me
-- [Facebook](https://www.facebook.com/preston.cothren.9)
-- [Twitter](https://twitter.com/toulaboy3)
-- [LinkedIn](https://www.linkedin.com/in/preston-cothren-00824190/)
+<h3 align="center" > Where to find me </h3>
+<a href="https://www.facebook.com/preston.cothren.9">
+  <p align="center"> Facebook </p>
+</a>
+<a href="https://twitter.com/toulaboy3">
+  <p align="center"> Twitter </p>
+</a>
+<a href="https://www.linkedin.com/in/preston-cothren-00824190/">
+  <p align="center"> Linked-In </p>
+</a>
