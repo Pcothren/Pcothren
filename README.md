@@ -10,10 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoffstadt&repo=DearPyGui&theme=dracula">
 </a>
 
-<a href="https://github.com/Pcothren/DearPyGui-Examples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pcothren&repo=DearPyGui-Examples&theme=dracula">
-</a>
-
 </p>
 
 <h3 align="center" > Where to find me </h3>
